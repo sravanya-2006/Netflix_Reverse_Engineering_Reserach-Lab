@@ -1,4 +1,4 @@
-# Netflix System Architecture: Reverse Engineering Research Report
+# Netflix System Architecture: Reverse Engineering
 
 > A research-oriented analysis of Netflix's streaming infrastructure, content delivery network, API architecture, recommendation systems, playback pipeline, DRM workflows, and large-scale distributed systems design.
 
