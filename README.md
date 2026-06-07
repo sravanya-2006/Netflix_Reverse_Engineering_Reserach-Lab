@@ -25,9 +25,9 @@ The report investigates how Netflix achieves:
 
 ---
 
-## Research Report
+## 📄 Research Report
 
-📄 **Netflix_System_Architecture_Report.pdf**
+[View Full Report](report/report.pdf)
 
 The complete report covers:
 
